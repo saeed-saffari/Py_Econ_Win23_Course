@@ -1,8 +1,7 @@
 # University of Tehran Course, Winter 2024
 This repository contains the contents of the "Python for Economics" Course at the Economic Science Association, Faculty of Economics, University of Tehran. (Winter 2024)
 
-<img src = "https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/photo_2023-12-28.jpeg?raw=true" width="550" >
-
+<img src = "https://github.com/saeed-saffari/Py_Econ_Win23_Course/blob/main/photo_2023-12-28.jpeg?raw=true" width="550" >
 
 ## The requirements and recommendations
 
